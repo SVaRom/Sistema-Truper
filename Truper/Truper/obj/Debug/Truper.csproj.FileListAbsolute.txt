@@ -1,0 +1,12 @@
+C:\Users\Usuario\source\repos\Truper\Truper\bin\Debug\Truper.exe.config
+C:\Users\Usuario\source\repos\Truper\Truper\bin\Debug\Truper.exe
+C:\Users\Usuario\source\repos\Truper\Truper\bin\Debug\Truper.pdb
+C:\Users\Usuario\source\repos\Truper\Truper\obj\Debug\Truper.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Truper\Truper\obj\Debug\Truper.Form1.resources
+C:\Users\Usuario\source\repos\Truper\Truper\obj\Debug\Truper.Properties.Resources.resources
+C:\Users\Usuario\source\repos\Truper\Truper\obj\Debug\Truper.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\Truper\Truper\obj\Debug\Truper.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Truper\Truper\obj\Debug\Truper.exe
+C:\Users\Usuario\source\repos\Truper\Truper\obj\Debug\Truper.pdb
+C:\Users\Usuario\source\repos\Truper\Truper\obj\Debug\Truper.Form2.resources
+C:\Users\Usuario\source\repos\Truper\Truper\obj\Debug\Truper.MessageBoxje.resources
